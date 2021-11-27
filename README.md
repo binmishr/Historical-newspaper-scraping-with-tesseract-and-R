@@ -1,0 +1,1 @@
+# Historical-newspaper-scraping-with-tesseract-and-R
